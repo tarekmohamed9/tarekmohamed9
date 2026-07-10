@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Tarek%20Mohamed&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front%20End%20Developer%20|%20Founder%20of%20Nosq%20Academy&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Tarek%20Mohamed&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front%20End%20Developer%20|%20Founder%20of%20NOSQ%20&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
