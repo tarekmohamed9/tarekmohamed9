@@ -3,7 +3,7 @@
 <div align="center">
 
 ### Hi there, I'm Tarek Mohamed 👋
-### Front End Developer | Founder of Nosq Academy
+### Front End Developer | Founder of NOSQ
 
 <p>
 Passionate about building modern, responsive, and user-friendly web interfaces.
@@ -37,7 +37,7 @@ Always learning, improving, and sharing knowledge.
 ## 🚀 About Me
 
 - 💻 I'm a **Front End Developer**
-- 🎓 Founder of **Nosq Academy**
+- 🎓 Founder of **NOSQ**
 - 🌱 Currently improving my skills in **React** and modern frontend development
 - 🛠️ I work with **C++, HTML, CSS, JavaScript, Bootstrap, React, Git, and GitHub**
 - 📚 I enjoy learning new technologies and sharing knowledge
