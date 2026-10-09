@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### Hi there, I'm Tarek Mohamed 👋
-### Front End Developer | Founder of NOSQ
+### Hi there, I'm Ali Waleed 👋
+### Front End Developer
 
 <p>
 Passionate about building modern, responsive, and user-friendly web interfaces.
@@ -37,9 +37,8 @@ Always learning, improving, and sharing knowledge.
 ## 🚀 About Me
 
 - 💻 I'm a **Front End Developer**
-- 🎓 Founder of **NOSQ**
 - 🌱 Currently improving my skills in **React** and modern frontend development
-- 🛠️ I work with **C++, HTML, CSS, JavaScript, Bootstrap, React, Git, and GitHub**
+- 🛠️ I work with ** HTML, CSS, JavaScript, Bootstrap, React, Git, and GitHub**
 - 📚 I enjoy learning new technologies and sharing knowledge
 - 🌐 My portfolio is **coming soon**
 
